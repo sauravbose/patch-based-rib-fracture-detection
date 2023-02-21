@@ -24,7 +24,7 @@
   <h3 align="center">Pediatric Rib Fracture Study</h3>
 
   <p align="center">
-    This project aims to identify rib fracture in AP chest radiogrpahs of children under two years of age. 
+    This project aims to identify rib fracture in AP chest radiographs of children under two years of age.
     <br />
     <a href="https://github.com/sauravbose/patch-based-rib-fracture-detection"><strong>Explore the docs »</strong></a>
     <br />
@@ -58,13 +58,13 @@
 ## About The Project
 
 Chest radiography is the modality of choice for the identification
-of rib fractures in young children and there is value for the 
+of rib fractures in young children and there is value for the
 development of computer aided rib fracture detection in this age
-group. However, the automated identification of rib fractures on 
-chest radiographs can be challenging due to the need for high 
+group. However, the automated identification of rib fractures on
+chest radiographs can be challenging due to the need for high
 spatial resolution in deep learning frameworks. To that end, we
-developed a patch based deep learning algorithm to automatically 
-detect rib fractures on frontal chest radiographs in children 
+developed a patch based deep learning algorithm to automatically
+detect rib fractures on frontal chest radiographs in children
 under 2 years of age.
 
 ### Built With
@@ -84,16 +84,13 @@ git clone https://github.com/sauravbose/patch-based-rib-fracture-detection.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 If you find the work in this repository useful, consider citing our
-published paper in the Journal of Digital Imaging. 
+published paper in the Journal of Digital Imaging.
 
 <!-- CONTACT -->
-## ContactS
-Saurav Bose - saurav.bose93@gmail.com 
+## Contacts
+Saurav Bose - saurav.bose93@gmail.com
 
 Daniella Patton - pattondm@chop.edu + Others
-
-Project Link: [https://github.research.chop.edu/pattondm/Rib-Fracture-Study](https://github.com/github_username/repo_name)
-
 
 
 
