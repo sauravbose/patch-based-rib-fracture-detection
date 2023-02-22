@@ -26,11 +26,9 @@
   <p align="center">
     This project aims to identify rib fracture in AP chest radiographs of children under two years of age.
     <br />
-    <a href="https://github.com/sauravbose/patch-based-rib-fracture-detection"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sauravbose/patch-based-rib-fracture-detection/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sauravbose/patch-based-rib-fracture-detection">View Demo</a>
-    ·
     <a href="https://github.com/sauravbose/patch-based-rib-fracture-detection/issues">Request Feature</a>
   </p>
 </p>
@@ -90,7 +88,7 @@ published paper in the Journal of Digital Imaging.
 ## Contacts
 Saurav Bose - saurav.bose93@gmail.com
 
-Daniella Patton - pattondm@chop.edu + Others
+Daniella Patton - daniellapatton@gmail.com + Others
 
 
 
